@@ -1,0 +1,78 @@
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.csproj.AssemblyReference.cache
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.AssemblyInfoInputs.cache
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.AssemblyInfo.cs
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.csproj.CoreCompileInputs.cache
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\appsettings.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.staticwebassets.endpoints.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.exe
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.deps.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.runtimeconfig.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.pdb
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Model.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\bin\Debug\net8.0\Model.pdb
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\scopedcss\bundle\A technology Task.styles.css
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.A technology Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.A technology Task.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.build.A technology Task.props
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A technology Task.props
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A technology Task.props
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A techno.B88FEC14.Up2Date
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\refint\A technology Task.dll
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.pdb
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.genruntimeconfig.cache
+C:\Users\mohme\source\repos\A technology Task\A technology Task\obj\Debug\net8.0\ref\A technology Task.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\appsettings.json
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.staticwebassets.endpoints.json
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.exe
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.deps.json
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.runtimeconfig.json
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\A technology Task.pdb
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Model.dll
+D:\New folder (2)\A technology Task\A technology Task\bin\Debug\net8.0\Model.pdb
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.csproj.AssemblyReference.cache
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.AssemblyInfoInputs.cache
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.AssemblyInfo.cs
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.csproj.CoreCompileInputs.cache
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\scopedcss\bundle\A technology Task.styles.css
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.A technology Task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.A technology Task.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.build.A technology Task.props
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A technology Task.props
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A technology Task.props
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A techno.B88FEC14.Up2Date
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.dll
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\refint\A technology Task.dll
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.pdb
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\A technology Task.genruntimeconfig.cache
+D:\New folder (2)\A technology Task\A technology Task\obj\Debug\net8.0\ref\A technology Task.dll

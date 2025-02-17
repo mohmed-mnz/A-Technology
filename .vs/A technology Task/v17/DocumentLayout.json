@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\A technology Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|d:\\new folder (2)\\a technology task\\a technology task\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|solutionrelative:a technology task\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|d:\\new folder (2)\\a technology task\\a technology task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|solutionrelative:a technology task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|d:\\new folder (2)\\a technology task\\a technology task\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|solutionrelative:a technology task\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|d:\\new folder (2)\\a technology task\\a technology task\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|solutionrelative:a technology task\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|d:\\new folder (2)\\a technology task\\model\\ipgeolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|solutionrelative:model\\ipgeolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|d:\\new folder (2)\\a technology task\\a technology task\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|solutionrelative:a technology task\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|d:\\new folder (2)\\a technology task\\model\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|solutionrelative:model\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|d:\\new folder (2)\\a technology task\\a technology task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2457005-2562-4EE8-8F76-877B7147229B}|A technology Task\\A technology Task.csproj|solutionrelative:a technology task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|d:\\new folder (2)\\a technology task\\model\\tempblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|solutionrelative:model\\tempblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|d:\\new folder (2)\\a technology task\\model\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53988C9-009B-4FF0-AF89-D68DEC0458CE}|Model\\Model.csproj|solutionrelative:model\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "logsController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\A technology Task\\Controllers\\logsController.cs",
+              "RelativeDocumentMoniker": "A technology Task\\Controllers\\logsController.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\A technology Task\\Controllers\\logsController.cs",
+              "RelativeToolTip": "A technology Task\\Controllers\\logsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:21:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "countriesController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\A technology Task\\Controllers\\countriesController.cs",
+              "RelativeDocumentMoniker": "A technology Task\\Controllers\\countriesController.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\A technology Task\\Controllers\\countriesController.cs",
+              "RelativeToolTip": "A technology Task\\Controllers\\countriesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:19:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPGeolocation.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\Model\\IPGeolocation.cs",
+              "RelativeDocumentMoniker": "Model\\IPGeolocation.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\Model\\IPGeolocation.cs",
+              "RelativeToolTip": "Model\\IPGeolocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:31:16.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\Model\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\AppConfiguration.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\Model\\AppConfiguration.cs",
+              "RelativeToolTip": "Model\\AppConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:30:39.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\A technology Task\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "A technology Task\\appsettings.Development.json",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\A technology Task\\appsettings.Development.json",
+              "RelativeToolTip": "A technology Task\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T21:28:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\A technology Task\\appsettings.json",
+              "RelativeDocumentMoniker": "A technology Task\\appsettings.json",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\A technology Task\\appsettings.json",
+              "RelativeToolTip": "A technology Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T21:19:09.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\A technology Task\\Program.cs",
+              "RelativeDocumentMoniker": "A technology Task\\Program.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\A technology Task\\Program.cs",
+              "RelativeToolTip": "A technology Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:03:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TempBlockRequest.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\Model\\TempBlockRequest.cs",
+              "RelativeDocumentMoniker": "Model\\TempBlockRequest.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\Model\\TempBlockRequest.cs",
+              "RelativeToolTip": "Model\\TempBlockRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:59:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockedAttemptLog.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\Model\\BlockedAttemptLog.cs",
+              "RelativeDocumentMoniker": "Model\\BlockedAttemptLog.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\Model\\BlockedAttemptLog.cs",
+              "RelativeToolTip": "Model\\BlockedAttemptLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:48:10.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ipController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\A technology Task\\A technology Task\\Controllers\\ipController.cs",
+              "RelativeDocumentMoniker": "A technology Task\\Controllers\\ipController.cs",
+              "ToolTip": "D:\\New folder (2)\\A technology Task\\A technology Task\\Controllers\\ipController.cs",
+              "RelativeToolTip": "A technology Task\\Controllers\\ipController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:46:25.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
